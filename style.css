@@ -243,3 +243,21 @@ p{
   text-decoration: none;
   cursor: pointer;
 }
+.superhero{
+    position: relative;
+    top: 25px;
+    left: 25px;
+    border-radius: 50%;
+   width: 62px;
+    height: 62px;
+   background: #FF6155;
+    
+}
+.superhero img{
+    position: relative;
+    top: -1px;
+    left: -1px;
+    width: 64px;
+    height: 64px;
+    
+}
